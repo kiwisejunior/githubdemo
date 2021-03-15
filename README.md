@@ -1,3 +1,3 @@
 # githubdemo
 
-github 수업 데모 or 
+github 수업 데모 
